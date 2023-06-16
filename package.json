@@ -1,0 +1,28 @@
+{
+  "name": "mongo-service",
+  "version": "1.0.0",
+  "description": "A Centralized Service For Node.JS Allowing Users to Initialize Quick CRUD Operations",
+  "main": "app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coding-Thunder/node-mongo-service-.git"
+  },
+  "keywords": [
+    "node",
+    "mongo",
+    "crud",
+    "mongodb",
+    "api",
+    "nodejs",
+    "backed"
+  ],
+  "author": "Vinay Maheshwari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Coding-Thunder/node-mongo-service-/issues"
+  },
+  "homepage": "https://github.com/Coding-Thunder/node-mongo-service-#readme"
+}
